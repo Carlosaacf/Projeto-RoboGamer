@@ -218,11 +218,17 @@ main {
         height: 80vh;
         margin: 5vh auto;
     }
+    .box.montador-conteudo{
+        font-size: 12px;
+    }
+    
+    
 }
 
 @media screen and (max-width: 1200px) {
     body { 
         font-size: 13px;
+        
     }
 
     main {
@@ -230,4 +236,9 @@ main {
         height: 80vh;
         margin: 10vh auto;
     }
+    
+    .box.montador-conteudo{
+        font-size: 12px;
+    }
+    
 }
